@@ -1,0 +1,83 @@
+<!-- filepath: e:\personal_project\AltalebFeras\assets\banner.svg -->
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Animated gradient for accent -->
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bgGradient)"/>
+  
+  <!-- Geometric shapes for visual interest -->
+  <circle cx="100" cy="100" r="80" fill="rgba(255,255,255,0.1)" opacity="0.6"/>
+  <circle cx="1100" cy="300" r="60" fill="rgba(255,255,255,0.1)" opacity="0.4"/>
+  <polygon points="1000,50 1050,120 950,120" fill="rgba(255,255,255,0.1)" opacity="0.5"/>
+  <rect x="50" y="300" width="40" height="40" fill="rgba(255,255,255,0.1)" opacity="0.3" transform="rotate(45 70 320)"/>
+  
+  <!-- Code symbols background -->
+  <text x="1050" y="80" font-family="JetBrains Mono, monospace" font-size="24" fill="rgba(255,255,255,0.2)" opacity="0.6">&lt;/&gt;</text>
+  <text x="150" y="350" font-family="JetBrains Mono, monospace" font-size="18" fill="rgba(255,255,255,0.2)" opacity="0.4">{}</text>
+  <text x="950" y="350" font-family="JetBrains Mono, monospace" font-size="20" fill="rgba(255,255,255,0.2)" opacity="0.5">[]</text>
+  
+  <!-- Main content -->
+  <g transform="translate(60, 120)">
+    <!-- Greeting -->
+    <text x="0" y="0" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="300" fill="rgba(255,255,255,0.9)">
+      👋 Bonjour, je suis
+    </text>
+    
+    <!-- Name -->
+    <text x="0" y="60" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="700" fill="white" filter="url(#glow)">
+      Feras Altaleb
+    </text>
+    
+    <!-- Title -->
+    <text x="0" y="110" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="400" fill="url(#accentGradient)">
+      Développeur Web &amp; Mobile
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="0" y="140" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="300" fill="rgba(255,255,255,0.8)">
+      💻 Passionné par le code et la création d'applications modernes
+    </text>
+    
+    <!-- Location -->
+    <text x="0" y="170" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="300" fill="rgba(255,255,255,0.7)">
+      📍 Basé à Grenoble, France
+    </text>
+  </g>
+  
+  <!-- Tech stack icons area -->
+  <g transform="translate(600, 280)">
+    <text x="0" y="0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="300" fill="rgba(255,255,255,0.7)">
+      Tech Stack:
+    </text>
+    <text x="0" y="25" font-family="JetBrains Mono, monospace" font-size="12" fill="rgba(255,255,255,0.6)">
+      React • Next.js • TypeScript • PHP • Symfony • Kotlin • Swift
+    </text>
+    <text x="0" y="45" font-family="JetBrains Mono, monospace" font-size="12" fill="rgba(255,255,255,0.6)">
+      MySQL • MongoDB • Docker • Git • TailwindCSS
+    </text>
+  </g>
+  
+  <!-- Decorative line -->
+  <line x1="60" y1="250" x2="400" y2="250" stroke="url(#accentGradient)" stroke-width="2" opacity="0.8"/>
+</svg>
