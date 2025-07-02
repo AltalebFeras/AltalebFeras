@@ -63,8 +63,8 @@ Je suis un développeur fullstack actuellement en formation de Concepteur Dével
 ## 🏅 Badges & Certifications
 
 ![CMS WordPress Simplon](https://img.shields.io/badge/CMS_Wordpress-Simplon-informational?style=flat&logo=wordpress)
-![Formation DWWM BAC+2](https://img.shields.io/badge/Formation-DWWM-red?style=flat-square&logo=simplon)
-![Formation CDA BAC+3](https://img.shields.io/badge/Formation-DWWM-red?style=flat-square&logo=simplon)
+![Formation DWWM BAC+2](https://img.shields.io/badge/Formation-DWWM-yellow?style=flat-square&logo=simplon)
+![Formation CDA BAC+3](https://img.shields.io/badge/Formation-CDA-green?style=flat-square&logo=simplon)
 
 ---
 
