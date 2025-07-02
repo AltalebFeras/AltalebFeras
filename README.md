@@ -10,7 +10,6 @@
 ## 🧑‍💻 À propos de moi
 
 Je suis un développeur fullstack actuellement en formation de Concepteur Développeur d’Applications chez Simplon. Après des expériences dans le génie civil, j’ai choisi de me réorienter vers le développement web et mobile, domaine qui me passionne.  
-Je suis actuellement à la recherche d’un **stage non rémunéré du 08/09/2025 au 16/01/2026**.
 
 > "L'apprentissage ne s'arrête jamais, et chaque ligne de code est une opportunité de grandir."
 
@@ -39,12 +38,6 @@ Je suis actuellement à la recherche d’un **stage non rémunéré du 08/09/202
 
 ## 🗂️ Projets récents
 
-| Projet | Description | Techs |
-|--------|-------------|-------|
-| [Brief V3](https://github.com/AltalebFeras/briefv3back) | API Symfony + Front Angular avec formulaire d'inscription | Symfony, Angular |
-| [SFTP First Server](https://github.com/AltalebFeras/sftpfirstserver) | Configuration serveur Linux pour SFTP | Linux, Bash |
-| [Notion Docs DevOps](https://github.com/AltalebFeras/server-notion-doc) | Documentation complète serveur VPS | Markdown, Linux |
-
 👉 [Voir tous mes projets sur GitHub](https://github.com/AltalebFeras)  
 👉 [Voir mes projets sur GitLab](https://gitlab.com/AltalebFeras)
 
@@ -70,8 +63,8 @@ Je suis actuellement à la recherche d’un **stage non rémunéré du 08/09/202
 ## 🏅 Badges & Certifications
 
 ![CMS WordPress Simplon](https://img.shields.io/badge/CMS_Wordpress-Simplon-informational?style=flat&logo=wordpress)
-![Formation DWWM](https://img.shields.io/badge/Formation-DWWM-red?style=flat-square&logo=simplon)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab-CI/CD-orange?style=flat-square&logo=gitlab)
+![Formation DWWM BAC+2](https://img.shields.io/badge/Formation-DWWM-red?style=flat-square&logo=simplon)
+![Formation CDA BAC+3](https://img.shields.io/badge/Formation-DWWM-red?style=flat-square&logo=simplon)
 
 ---
 
