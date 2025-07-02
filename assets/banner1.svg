@@ -1,0 +1,93 @@
+<!-- filepath: e:\personal_project\AltalebFeras\assets\banner.svg -->
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3730a3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#581c87;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Animated gradient for accent -->
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Strong glow for name -->
+    <filter id="strongGlow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bgGradient)"/>
+  
+  <!-- Geometric shapes for visual interest -->
+  <circle cx="100" cy="100" r="80" fill="rgba(255,255,255,0.15)" opacity="0.8"/>
+  <circle cx="1100" cy="300" r="60" fill="rgba(255,255,255,0.15)" opacity="0.6"/>
+  <polygon points="1000,50 1050,120 950,120" fill="rgba(255,255,255,0.15)" opacity="0.7"/>
+  <rect x="50" y="300" width="40" height="40" fill="rgba(255,255,255,0.15)" opacity="0.5" transform="rotate(45 70 320)"/>
+  
+  <!-- Code symbols background -->
+  <text x="1050" y="80" font-family="JetBrains Mono, monospace" font-size="28" font-weight="bold" fill="rgba(255,255,255,0.3)" opacity="0.8">&lt;/&gt;</text>
+  <text x="150" y="350" font-family="JetBrains Mono, monospace" font-size="22" font-weight="bold" fill="rgba(255,255,255,0.3)" opacity="0.6">{}</text>
+  <text x="950" y="350" font-family="JetBrains Mono, monospace" font-size="24" font-weight="bold" fill="rgba(255,255,255,0.3)" opacity="0.7">[]</text>
+  
+  <!-- Main content -->
+  <g transform="translate(60, 120)">
+    <!-- Greeting -->
+    <text x="0" y="0" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="400" fill="white" filter="url(#glow)">
+      👋 Bonjour, je suis
+    </text>
+    
+    <!-- Name -->
+    <text x="0" y="60" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="900" fill="white" filter="url(#strongGlow)">
+      Feras Altaleb
+    </text>
+    
+    <!-- Title -->
+    <text x="0" y="110" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="600" fill="url(#accentGradient)" filter="url(#glow)">
+      Développeur Web &amp; Mobile
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="0" y="140" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="400" fill="white" opacity="0.95">
+      💻 Passionné par le code et la création d'applications modernes
+    </text>
+    
+    <!-- Location -->
+    <text x="0" y="170" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="400" fill="white" opacity="0.9">
+      📍 Basé à Grenoble, France
+    </text>
+  </g>
+  
+  <!-- Tech stack icons area -->
+  <g transform="translate(600, 280)">
+    <text x="0" y="0" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="500" fill="white" opacity="0.9">
+      Tech Stack:
+    </text>
+    <text x="0" y="25" font-family="JetBrains Mono, monospace" font-size="14" font-weight="500" fill="white" opacity="0.85">
+      React • Next.js • TypeScript • PHP • Symfony • Kotlin • Swift
+    </text>
+    <text x="0" y="45" font-family="JetBrains Mono, monospace" font-size="14" font-weight="500" fill="white" opacity="0.85">
+      MySQL • MongoDB • Docker • Git • TailwindCSS
+    </text>
+  </g>
+  
+  <!-- Decorative line -->
+  <line x1="60" y1="250" x2="450" y2="250" stroke="url(#accentGradient)" stroke-width="3" opacity="1" filter="url(#glow)"/>
+</svg>
