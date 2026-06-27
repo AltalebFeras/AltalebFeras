@@ -9,30 +9,30 @@
 
 ## 🧑‍💻 À propos de moi
 
-Je suis un développeur fullstack actuellement en formation de Concepteur Développeur d’Applications chez Simplon. Après des expériences dans le génie civil, j’ai choisi de me réorienter vers le développement web et mobile, domaine qui me passionne.  
-
-> "L'apprentissage ne s'arrête jamais, et chaque ligne de code est une opportunité de grandir."
+Je suis un développeur fullstack.
 
 ---
 
 ## 🛠️ Compétences techniques
 
-![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,php,symfony,kotlin,swift,mysql,mongodb,git,docker,bootstrap,tailwind)
+![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,php,symfony,mysql,mongodb,git,docker,bootstrap,tailwind)
 
 - **Front-End** : React, Next.js, TypeScript, TailwindCSS, Bootstrap
 - **Back-End** : PHP, Symfony, API REST, Ajax, Fetch
-- **Mobile** : Kotlin, Swift
+- **Mobile** : react native, 
 - **Bases de données** : MySQL, MongoDB
-- **Outils & DevOps** : Git, GitHub/GitLab CI, Docker
+- **Outils & DevOps** : Git, GitHub/GitLab CI, Docker , cloud , hosting
 
 ---
 
 ## 🌍 Langues parlées
 
-- 🇫🇷 Français – B2  
-- 🇬🇧 Anglais – B1  
+- 🇫🇷 Français – B2 Diplôme Européen
+- 🇬🇧 Anglais – B1  Auto-évaluation
 - 🇸🇾 Arabe – Langue maternelle  
-- 🇨🇿 Tchèque – B2
+- 🇨🇿 Tchèque – B2 Diplôme Européen
+- Espagnol - A2 Auto-évaluation
+- Russe - A1 Auto-évaluation
 
 ---
 
@@ -40,15 +40,6 @@ Je suis un développeur fullstack actuellement en formation de Concepteur Dével
 
 👉 [Voir tous mes projets sur GitHub](https://github.com/AltalebFeras)  
 👉 [Voir mes projets sur GitLab](https://gitlab.com/AltalebFeras)
-
----
-
-## 🎯 Objectifs 2025
-
-- 🚀 Devenir développeur fullstack confirmé
-- 🧪 Maîtriser les tests automatisés (PHPUnit, Jest)
-- ☁️ Explorer DevOps & Cloud (CI/CD avancé, Docker, VPS)
-- 🌍 Participer à des projets open-source
 
 ---
 
