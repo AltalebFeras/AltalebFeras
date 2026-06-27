@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/AltalebFeras/AltalebFeras/main/assets/banner.svg" alt="Welcome Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/AltalebFeras/AltalebFeras/main/assets/banner.png" alt="Welcome Banner" width="100%"/>
 
 # 👋 Bonjour, je suis Feras Altaleb
 
