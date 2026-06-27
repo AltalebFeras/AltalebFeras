@@ -1,15 +1,9 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/AltalebFeras/AltalebFeras/main/assets/banner.png" alt="Welcome Banner" width="100%"/>
 
-# 👋 Bonjour, je suis Feras Altaleb
+# 👋 Bonjour, moi c'est Feras
 
-🎓 Développeur Web & Mobile | 💻 Passionné par le code et la création d'applications modernes | 📍 Basé à Grenoble, France
-
----
-
-## 🧑‍💻 À propos de moi
-
-Je suis un développeur fullstack.
+Je suis un fullstack Concepteur et Développeur d'applications Web & Web Mobile | 💻 Passionné par le code et la création d'applications modernes | 📍 Basé à Grenoble, France
 
 ---
 
@@ -51,9 +45,9 @@ Je suis un développeur fullstack.
 
 ---
 
-## 🏅 Badges & Certifications
+## 🏅 Mes Diplômes et Certifications
 
-![CMS WordPress Simplon](https://img.shields.io/badge/CMS_Wordpress-Simplon-informational?style=flat&logo=wordpress)
+![CMS WordPress Refugeek](https://img.shields.io/badge/CMS_Wordpress-Simplon-informational?style=flat&logo=wordpress)
 ![Formation DWWM BAC+2](https://img.shields.io/badge/Formation-DWWM-yellow?style=flat-square&logo=simplon)
 ![Formation CDA BAC+3](https://img.shields.io/badge/Formation-CDA-green?style=flat-square&logo=simplon)
 
