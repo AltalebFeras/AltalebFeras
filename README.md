@@ -13,7 +13,7 @@ Je suis un fullstack Concepteur et Développeur d'applications Web & Web Mobile 
 
 - **Front-End** : React, Next.js, TypeScript, TailwindCSS, Bootstrap
 - **Back-End** : PHP, Symfony, API REST, Ajax, Fetch
-- **Mobile** : react native, 
+- **Mobile** : react native
 - **Bases de données** : MySQL, MongoDB
 - **Outils & DevOps** : Git, GitHub/GitLab CI, Docker , cloud , hosting
 
@@ -25,8 +25,8 @@ Je suis un fullstack Concepteur et Développeur d'applications Web & Web Mobile 
 - 🇬🇧 Anglais – B1  Auto-évaluation
 - 🇸🇾 Arabe – Langue maternelle  
 - 🇨🇿 Tchèque – B2 Diplôme Européen
-- Espagnol - A2 Auto-évaluation
-- Russe - A1 Auto-évaluation
+- 🇪🇸 Espagnol - A2 Auto-évaluation
+- 🇷🇺 Russe - A1 Auto-évaluation
 
 ---
 
